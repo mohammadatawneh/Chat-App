@@ -1,6 +1,6 @@
 # Chat-App
 Chat App using PHP with MySQL , AJAX , CSS, JS
-# name database : messenger 
+## name database : messenger 
 ## video to chat app : https://youtu.be/S38cH6tnXeo 
 ## summary
 In this chat application, when you open it first on your browser, there is shown a signup form where you have to signup with your details like name, email, password, and image. Email and image field is fully validated which means you’ve to enter a valid email and an image file only. Once you signed up successfully, you’ll be redirected to the user’s page where you can see your full name, image, status, and logout button to the top, and users, like you, appear on the bottom if someone has signed up.
